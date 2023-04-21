@@ -16,8 +16,8 @@ I am a JavaScript Full-Stack Engineer with cross-platform mobile development exp
 <h3>🔭 I’m currently working for</h3>
 
 
-  - [Nisum](https://www.nisum.com) as a Senior Software Engineer, developing large e-commerce platforms and enterprise applications with MERN Unit Testing with JEST(Enzymes) and developing mobile apps for the clients, 
-  - [PIAIC](https://www.piaic.org/) Presidential Initiative for Artificial Intelligence and Computing as a Cloud Native Computing Trainer, teaching HTML5, CSS3, JavaScript, MERN Stack, Linux, Docker and Kubernetes.
+  - [Nisum](https://www.nisum.com) as a Senior Software Engineer, developing large e-commerce platforms and enterprise applications with MERN Unit Testing with JEST(Enzymes) and developing highly maintable e-commerce mobile apps for different clients, 
+  - [PaysysLabs](https://www.paysyslabs.com/) as Mobile app developer, developing large scale financial apps with iOS & React-Native also developing backportals on .Net for internal bankers/tellers.
 
 🌱 I’m currently learning microservices  🚀
 
